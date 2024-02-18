@@ -1,0 +1,181 @@
+launch /gpfs/scratch/argiannakopo/H_to_hh_kc_cosbma0p1_xi0_atlas/ 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.007943 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.012445 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.019498 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.030549 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.047863 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.007943 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.012445 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.019498 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.030549 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.047863 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.007943 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.012445 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.019498 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.030549 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.047863 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.007943 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.012445 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.019498 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.030549 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.047863 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.007943 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.012445 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.019498 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.030549 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.047863 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.007943 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.012445 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.019498 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.030549 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.047863 
+0 
+ 

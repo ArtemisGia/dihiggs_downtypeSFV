@@ -1,0 +1,3691 @@
+launch /gpfs/scratch/argiannakopo/H_to_hh_kc_cosbma0p1_xi0_atlas/ 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.007943 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.012445 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.019498 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.030549 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.047863 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.050119 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.067263 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.090273 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.121153 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.162596 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.218217 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.292864 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.393047 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.527500 
+0 
+launch 
+set mh2 251 
+set mh3 251 
+set mhc 251 
+set kc 0.707946 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.007943 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.012445 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.019498 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.030549 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.047863 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.050119 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.067263 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.090273 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.121153 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.162596 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.218217 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.292864 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.393047 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.527500 
+0 
+launch 
+set mh2 260 
+set mh3 260 
+set mhc 260 
+set kc 0.707946 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.007943 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.012445 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.019498 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.030549 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.047863 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.050119 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.067263 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.090273 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.121153 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.162596 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.218217 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.292864 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.393047 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.527500 
+0 
+launch 
+set mh2 270 
+set mh3 270 
+set mhc 270 
+set kc 0.707946 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.007943 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.012445 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.019498 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.030549 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.047863 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.050119 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.067263 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.090273 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.121153 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.162596 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.218217 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.292864 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.393047 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.527500 
+0 
+launch 
+set mh2 280 
+set mh3 280 
+set mhc 280 
+set kc 0.707946 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.007943 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.012445 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.019498 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.030549 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.047863 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.050119 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.067263 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.090273 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.121153 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.162596 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.218217 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.292864 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.393047 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.527500 
+0 
+launch 
+set mh2 290 
+set mh3 290 
+set mhc 290 
+set kc 0.707946 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.007943 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.012445 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.019498 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.030549 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.047863 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.050119 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.067263 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.090273 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.121153 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.162596 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.218217 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.292864 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.393047 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.527500 
+0 
+launch 
+set mh2 300 
+set mh3 300 
+set mhc 300 
+set kc 0.707946 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.007943 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.012445 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.019498 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.030549 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.047863 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.050119 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.067263 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.090273 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.121153 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.162596 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.218217 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.292864 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.393047 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.527500 
+0 
+launch 
+set mh2 312 
+set mh3 312 
+set mhc 312 
+set kc 0.707946 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.007943 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.012445 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.019498 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.030549 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.047863 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.050119 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.067263 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.090273 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.121153 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.162596 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.218217 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.292864 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.393047 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.527500 
+0 
+launch 
+set mh2 325 
+set mh3 325 
+set mhc 325 
+set kc 0.707946 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.007943 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.012445 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.019498 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.030549 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.047863 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.050119 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.067263 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.090273 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.121153 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.162596 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.218217 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.292864 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.393047 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.527500 
+0 
+launch 
+set mh2 337 
+set mh3 337 
+set mhc 337 
+set kc 0.707946 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.007943 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.012445 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.019498 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.030549 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.047863 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.050119 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.067263 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.090273 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.121153 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.162596 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.218217 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.292864 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.393047 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.527500 
+0 
+launch 
+set mh2 350 
+set mh3 350 
+set mhc 350 
+set kc 0.707946 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.007943 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.012445 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.019498 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.030549 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.047863 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.050119 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.067263 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.090273 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.121153 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.162596 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.218217 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.292864 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.393047 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.527500 
+0 
+launch 
+set mh2 375 
+set mh3 375 
+set mhc 375 
+set kc 0.707946 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.007943 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.012445 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.019498 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.030549 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.047863 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.050119 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.067263 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.090273 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.121153 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.162596 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.218217 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.292864 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.393047 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.527500 
+0 
+launch 
+set mh2 400 
+set mh3 400 
+set mhc 400 
+set kc 0.707946 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.007943 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.012445 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.019498 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.030549 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.047863 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.050119 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.067263 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.090273 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.121153 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.162596 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.218217 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.292864 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.393047 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.527500 
+0 
+launch 
+set mh2 425 
+set mh3 425 
+set mhc 425 
+set kc 0.707946 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.007943 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.012445 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.019498 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.030549 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.047863 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.050119 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.067263 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.090273 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.121153 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.162596 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.218217 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.292864 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.393047 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.527500 
+0 
+launch 
+set mh2 450 
+set mh3 450 
+set mhc 450 
+set kc 0.707946 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.007943 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.012445 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.019498 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.030549 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.047863 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.050119 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.067263 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.090273 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.121153 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.162596 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.218217 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.292864 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.393047 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.527500 
+0 
+launch 
+set mh2 475 
+set mh3 475 
+set mhc 475 
+set kc 0.707946 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.007943 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.012445 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.019498 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.030549 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.047863 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.050119 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.067263 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.090273 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.121153 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.162596 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.218217 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.292864 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.393047 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.527500 
+0 
+launch 
+set mh2 500 
+set mh3 500 
+set mhc 500 
+set kc 0.707946 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.007943 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.012445 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.019498 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.030549 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.047863 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.050119 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.067263 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.090273 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.121153 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.162596 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.218217 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.292864 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.393047 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.527500 
+0 
+launch 
+set mh2 550 
+set mh3 550 
+set mhc 550 
+set kc 0.707946 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.007943 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.012445 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.019498 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.030549 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.047863 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.050119 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.067263 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.090273 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.121153 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.162596 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.218217 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.292864 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.393047 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.527500 
+0 
+launch 
+set mh2 600 
+set mh3 600 
+set mhc 600 
+set kc 0.707946 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.007943 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.012445 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.019498 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.030549 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.047863 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.050119 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.067263 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.090273 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.121153 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.162596 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.218217 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.292864 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.393047 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.527500 
+0 
+launch 
+set mh2 650 
+set mh3 650 
+set mhc 650 
+set kc 0.707946 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.007943 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.012445 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.019498 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.030549 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.047863 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.050119 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.067263 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.090273 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.121153 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.162596 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.218217 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.292864 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.393047 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.527500 
+0 
+launch 
+set mh2 700 
+set mh3 700 
+set mhc 700 
+set kc 0.707946 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.007943 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.012445 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.019498 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.030549 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.047863 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.050119 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.067263 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.090273 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.121153 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.162596 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.218217 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.292864 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.393047 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.527500 
+0 
+launch 
+set mh2 750 
+set mh3 750 
+set mhc 750 
+set kc 0.707946 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.007943 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.012445 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.019498 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.030549 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.047863 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.050119 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.067263 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.090273 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.121153 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.162596 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.218217 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.292864 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.393047 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.527500 
+0 
+launch 
+set mh2 800 
+set mh3 800 
+set mhc 800 
+set kc 0.707946 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.007943 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.012445 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.019498 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.030549 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.047863 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.050119 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.067263 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.090273 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.121153 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.162596 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.218217 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.292864 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.393047 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.527500 
+0 
+launch 
+set mh2 850 
+set mh3 850 
+set mhc 850 
+set kc 0.707946 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.007943 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.012445 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.019498 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.030549 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.047863 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.050119 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.067263 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.090273 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.121153 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.162596 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.218217 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.292864 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.393047 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.527500 
+0 
+launch 
+set mh2 900 
+set mh3 900 
+set mhc 900 
+set kc 0.707946 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.007943 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.012445 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.019498 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.030549 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.047863 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.050119 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.067263 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.090273 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.121153 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.162596 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.218217 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.292864 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.393047 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.527500 
+0 
+launch 
+set mh2 1000 
+set mh3 1000 
+set mhc 1000 
+set kc 0.707946 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.007943 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.012445 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.019498 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.030549 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.047863 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.050119 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.067263 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.090273 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.121153 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.162596 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.218217 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.292864 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.393047 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.527500 
+0 
+launch 
+set mh2 1100 
+set mh3 1100 
+set mhc 1100 
+set kc 0.707946 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.007943 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.012445 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.019498 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.030549 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.047863 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.050119 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.067263 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.090273 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.121153 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.162596 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.218217 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.292864 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.393047 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.527500 
+0 
+launch 
+set mh2 1200 
+set mh3 1200 
+set mhc 1200 
+set kc 0.707946 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.007943 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.012445 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.019498 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.030549 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.047863 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.050119 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.067263 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.090273 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.121153 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.162596 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.218217 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.292864 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.393047 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.527500 
+0 
+launch 
+set mh2 1300 
+set mh3 1300 
+set mhc 1300 
+set kc 0.707946 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.007943 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.012445 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.019498 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.030549 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.047863 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.050119 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.067263 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.090273 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.121153 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.162596 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.218217 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.292864 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.393047 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.527500 
+0 
+launch 
+set mh2 1400 
+set mh3 1400 
+set mhc 1400 
+set kc 0.707946 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.007943 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.012445 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.019498 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.030549 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.047863 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.050119 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.067263 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.090273 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.121153 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.162596 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.218217 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.292864 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.393047 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.527500 
+0 
+launch 
+set mh2 1500 
+set mh3 1500 
+set mhc 1500 
+set kc 0.707946 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.007943 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.012445 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.019498 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.030549 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.047863 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.050119 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.067263 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.090273 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.121153 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.162596 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.218217 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.292864 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.393047 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.527500 
+0 
+launch 
+set mh2 1600 
+set mh3 1600 
+set mhc 1600 
+set kc 0.707946 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.007943 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.012445 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.019498 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.030549 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.047863 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.050119 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.067263 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.090273 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.121153 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.162596 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.218217 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.292864 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.393047 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.527500 
+0 
+launch 
+set mh2 1800 
+set mh3 1800 
+set mhc 1800 
+set kc 0.707946 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.007943 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.012445 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.019498 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.030549 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.047863 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.050119 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.067263 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.090273 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.121153 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.162596 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.218217 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.292864 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.393047 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.527500 
+0 
+launch 
+set mh2 2000 
+set mh3 2000 
+set mhc 2000 
+set kc 0.707946 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.007943 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.012445 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.019498 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.030549 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.047863 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.050119 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.067263 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.090273 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.121153 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.162596 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.218217 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.292864 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.393047 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.527500 
+0 
+launch 
+set mh2 2250 
+set mh3 2250 
+set mhc 2250 
+set kc 0.707946 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.007943 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.012445 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.019498 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.030549 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.047863 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.050119 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.067263 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.090273 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.121153 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.162596 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.218217 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.292864 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.393047 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.527500 
+0 
+launch 
+set mh2 2500 
+set mh3 2500 
+set mhc 2500 
+set kc 0.707946 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.007943 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.012445 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.019498 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.030549 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.047863 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.050119 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.067263 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.090273 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.121153 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.162596 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.218217 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.292864 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.393047 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.527500 
+0 
+launch 
+set mh2 2750 
+set mh3 2750 
+set mhc 2750 
+set kc 0.707946 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.007943 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.012445 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.019498 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.030549 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.047863 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.050119 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.067263 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.090273 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.121153 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.162596 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.218217 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.292864 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.393047 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.527500 
+0 
+launch 
+set mh2 3000 
+set mh3 3000 
+set mhc 3000 
+set kc 0.707946 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.007943 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.012445 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.019498 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.030549 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.047863 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.050119 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.067263 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.090273 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.121153 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.162596 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.218217 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.292864 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.393047 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.527500 
+0 
+launch 
+set mh2 3500 
+set mh3 3500 
+set mhc 3500 
+set kc 0.707946 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.007943 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.012445 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.019498 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.030549 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.047863 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.050119 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.067263 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.090273 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.121153 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.162596 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.218217 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.292864 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.393047 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.527500 
+0 
+launch 
+set mh2 4000 
+set mh3 4000 
+set mhc 4000 
+set kc 0.707946 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.007943 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.012445 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.019498 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.030549 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.047863 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.050119 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.067263 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.090273 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.121153 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.162596 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.218217 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.292864 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.393047 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.527500 
+0 
+launch 
+set mh2 4500 
+set mh3 4500 
+set mhc 4500 
+set kc 0.707946 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.007943 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.012445 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.019498 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.030549 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.047863 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.050119 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.067263 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.090273 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.121153 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.162596 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.218217 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.292864 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.393047 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.527500 
+0 
+launch 
+set mh2 5000 
+set mh3 5000 
+set mhc 5000 
+set kc 0.707946 
+0 
+

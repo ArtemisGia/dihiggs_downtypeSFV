@@ -1,0 +1,34 @@
+ - FeynRules - 
+Version: 2.3.49 (*29 September 2021).
+Authors: A. Alloul, N. Christensen, C. Degrande, C. Duhr, B. Fuks
+ 
+Please cite:
+    - Comput.Phys.Commun.185:2250-2300,2014 (arXiv:1310.1921);
+    - Comput.Phys.Commun.180:1614-1641,2009 (arXiv:0806.4194).
+ 
+http://feynrules.phys.ucl.ac.be
+ 
+The FeynRules palette can be opened using the command FRPalette[].
+This model implementation was created by
+C. Duhr
+M. Herquet
+C. Degrande
+Model Version: 1.2
+http://feynrules.phys.ucl.ac.be/view/Main/2HDM
+For more information, type ModelInformation[].
+
+   - Loading particle classes.
+   - Loading gauge group classes.
+   - Loading parameter classes.
+
+Model 2HDM loaded.
+Style[Starting Feynman rule calculation., RGBColor[1, 0.5, 0], Bold]
+Expanding the Lagrangian...
+Expanding the indices over 28 cores
+Collecting the different structures that enter the vertex.
+312 possible non-zero vertices have been found -> starting the computation: Dynamic[FR$FeynmanRules] / 312.
+308 vertices obtained.
+Flavor expansion of the vertices distributed over 28 cores: Dynamic[FR$Count1] / 308
+Style[Computing the squared matrix elements relevant for the 1->2 decays: , RGBColor[1, 0.5, 0], Bold]
+Dynamic[PRIVATE`mycounter] / 192
+Dynamic[PRIVATE`mycounter] / 281
